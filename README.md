@@ -1,2 +1,2 @@
-# BaekJoon_Algorithm
-BaekJoon Algorithm Practice
+# Algorithm
+Algorithm Practice
