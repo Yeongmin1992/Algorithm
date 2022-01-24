@@ -5,7 +5,7 @@ public class CardConvRev {
 
     static int cardConvR(int x, int r) {
         int digits = 0;
-        char[] d = {};
+        char[] d = new char[36];
         String dchar = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
         do {
