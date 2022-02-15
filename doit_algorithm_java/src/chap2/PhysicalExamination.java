@@ -57,7 +57,7 @@ public class PhysicalExamination {
         int[] vdist = new int[VMAX];        // 시력 분포
 
         System.out.println("■ 신체검사 리스트 ■");
-        System.out.println("이름      키   시력");
+        System.out.println("이름      키    시력");
         System.out.println("___________________");
 
         for(int i = 0; i < x.length; i ++)
