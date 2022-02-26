@@ -31,7 +31,7 @@ public class Q3 {
         System.out.print("찾는 값 : ");    // 키 값을 입력 받음
         int ky = stdIn.nextInt();
 
-        int counnt = searchIdx(x, num, ky, y);
+        int count = searchIdx(x, num, ky, y);
 
         if (count == 0)
             System.out.println("그 값의 요소가 없습니다.");
