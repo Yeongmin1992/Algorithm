@@ -58,6 +58,10 @@ public class PhysExamSearch {
 
         if (idx < 0)
             System.out.println("요소가 없습니다.");
+        else {
+            System.out.println("x[" + idx + "]에 있습니다.");
+            System.out.println("찾은 데이터 : " + x[idx]);   // 자동으로 toString() 호출
+        }
 
     }
 }
