@@ -1,4 +1,4 @@
-package chap04;
+package chap05;
 
 public class IntStack {
     private int max;        // 스택 용량
